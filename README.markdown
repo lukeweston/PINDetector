@@ -1,5 +1,5 @@
 
-Simple, low-cost X-ray/gamma-ray detector based on PIN photodiode
+Simple, low-cost X-ray/gamma-ray detector based on PIN photodiode  
 Luke Weston, 2012
 
 Released as Open Hardware as per the CERN Open Hardware License: www.ohwr.org/cernohl
