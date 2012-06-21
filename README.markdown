@@ -2,6 +2,8 @@
 Simple, low-cost X-ray/gamma-ray detector based on PIN photodiode  
 Luke Weston, 2012
 
+ ![](https://github.com/lukeweston/PINDetector/raw/master/PINDetector-pcb.png)
+
 Released as Open Hardware as per the CERN Open Hardware License: www.ohwr.org/cernohl
 
 A silicon PIN diode (in this case an inexpensive off-the-shelf device designed for infrared optoelectronics), accompanied with appropriate electronics, can detect charged particle and energetic photon (X-ray or gamma-ray) impacts on the diode, allowing for basic qualitative ionising radiation counting (for educational use, for example)
